@@ -36,3 +36,7 @@
 <br />
 
 ---
+
+[website]: https://kapilashrami.herokuapp.com
+[website-projects]: https://kapilashrami.herokuapp.com/my-projects
+[linkedin]: https://www.linkedin.com/in/kapilashrami
