@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband (soon to be 2022), Developer, and Teacher!
+## I'm a Husband (soon to be 2022), Developer, and Tech Geek 🤓!
 
 - 🌱 I’m currently working as a consultant
 - 🥅 2021 Goals: App Development (React Native, Flutter)
