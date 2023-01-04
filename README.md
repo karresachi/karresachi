@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartick - aka [karresachi][website] 👋
 
-## I'm a Husband (soon to be 2022), Developer, and Tech Geek 🤓!
+## I'm a Husband, Developer, and Tech Geek 🤓!
 
 - 💼 [AGEA Group][agea]
 - 💻 Currently Fullstack Developer (consultant) [@smartcash][company] || 🌱 Creator [Brinto][brinto] || 🌱 Co-creator [Botnova][botnova]
